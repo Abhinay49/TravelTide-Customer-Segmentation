@@ -1,0 +1,6 @@
+Cluster,Segment Name,Description,Recommended Perk
+0,Loyal High-Value Travelers,"High flights + hotels, moderate discounts, low rebooking. Steady loyal users.",1 Night Free Hotel with Flight
+1,Idle Users / Low Engagement,"Zero bookings, just browsing behavior. Likely to convert with the right nudge.",Destination Recommendations
+2,"Flight-Heavy, Rebooking-Prone","Flight-only users with high rebooking behavior. Reactive, high-stress travelers.",No Cancellation Fees
+3,Frequent Co-Bookers (Low Deal Use),Frequent co-bookers with minimal discount usage. Confident and low-maintenance.,Free Checked Bag
+4,Hotel-Only Leisure Travelers,"Mostly hotel users with minimal flight activity. Travel for leisure, not logistics.",Free Hotel Meal
