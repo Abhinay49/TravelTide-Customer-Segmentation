@@ -1,0 +1,11 @@
+# Python dependencies for TravelTide Customer Segmentation Project
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+sqlalchemy
+psycopg2-binary
