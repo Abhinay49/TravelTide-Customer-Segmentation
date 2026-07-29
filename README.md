@@ -103,6 +103,7 @@ The primary objectives of this project are to:
 
 # 📂 Repository Structure
 
+```text
 TravelTide-Customer-Segmentation/
 │
 ├── data/
