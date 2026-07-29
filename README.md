@@ -89,6 +89,12 @@ TravelTide-Customer-Segmentation/
 
 ---
 
-## 📬 Author
-**Abhinay Dornipati**  
-TravelTide Mastery Project – Customer Segmentation  
+# 👤 Author
+
+## Abhinay Dornipati
+
+**Data Analytics | Machine Learning | Python**
+
+Data Analytics and Machine Learning professional with an engineering background and over six years of experience in computational modeling, automation, and analytical problem-solving. Passionate about transforming data into actionable insights through machine learning, statistical analysis, and data visualization.
+
+This repository is part of my professional portfolio, showcasing end-to-end data analytics and machine learning projects built using reproducible workflows and industry best practices.  
