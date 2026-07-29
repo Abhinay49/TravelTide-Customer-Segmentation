@@ -21,17 +21,6 @@ An end-to-end customer segmentation project that applies the CRISP-DM methodolog
 ✔ Executive summary and stakeholder presentation with actionable business recommendations
 
 ---
-## 🔄 End-to-End Project Workflow
-
-<p align="center">
-    <img src="images/traveltide_workflow.png" width="1000">
-</p>
-
-<p align="center">
-<b>Figure 1.</b> End-to-end analytics workflow illustrating the CRISP-DM process from business understanding and data preparation through feature engineering, customer segmentation, model evaluation, and actionable business recommendations.
-</p>
-
----
 
 # 📖 Project Overview
 
@@ -53,22 +42,15 @@ The primary objectives of this project are to:
 - Deliver actionable business recommendations to improve customer retention, engagement, and loyalty.
 
 ---
+## 🔄 End-to-End Project Workflow
 
-## 📂 Project Structure
-```
-TravelTide-Customer-Segmentation/
-│
-├── data/
-│   ├── Raw/               # Extracted raw data
-│   ├── Processed/         # Cleaned and preprocessed datasets
-│
-├── notebooks/             # Jupyter/Colab notebooks for analysis
-├── output/                # Cluster profiling, visualizations, PCA outputs
-├── reports/               # Executive summary, stakeholder slides
-│
-├── README.md              # Project documentation
-└── requirements.txt       # Dependencies (optional)
-```
+<p align="center">
+    <img src="images/traveltide_workflow.png" width="1000">
+</p>
+
+<p align="center">
+<b>Figure 1.</b> End-to-end analytics workflow illustrating the CRISP-DM process from business understanding and data preparation through feature engineering, customer segmentation, model evaluation, and actionable business recommendations.
+</p>
 
 ---
 
@@ -119,11 +101,53 @@ TravelTide-Customer-Segmentation/
 
 ---
 
-## 🛠️ Tools & Technologies
-- **SQL (PostgreSQL)** – data extraction & cohorting  
-- **Python (pandas, scikit-learn, matplotlib)** – preprocessing, clustering, visualization  
-- **Colab/Jupyter** – analysis workflow  
-- **PowerPoint / Word** – business communication deliverables  
+# 📂 Repository Structure
+
+TravelTide-Customer-Segmentation/
+│
+├── data/
+│   ├── Raw/
+│   │   └── Raw extracted datasets
+│   │
+│   └── Processed/
+│       └── Cleaned and feature-engineered datasets
+│
+├── notebooks/
+│   └── Customer_Segmentation_Analysis.ipynb
+│
+├── output/
+│   ├── Cluster profiling summaries
+│   ├── PCA visualizations
+│   ├── Heatmaps
+│   └── Final clustered datasets
+│
+├── reports/
+│   ├── Executive Summary
+│   └── Stakeholder Presentation
+│
+├── images/
+│   └── traveltide_workflow.png
+│
+├── README.md
+└── requirements.txt
+```
+
+The repository is organized to clearly separate raw and processed data, analytical notebooks, visual outputs, business deliverables, and supporting documentation. This structure promotes reproducibility while making the complete analytics workflow easy to navigate.
+
+```
+
+# 🛠️ Tools & Technologies
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Language** | Python |
+| **Database** | PostgreSQL |
+| **Data Processing** | Pandas, NumPy |
+| **Machine Learning** | Scikit-learn, PCA, K-Means Clustering |
+| **Data Visualization** | Matplotlib, Seaborn |
+| **Analytics Methodology** | CRISP-DM, Feature Engineering, Silhouette Analysis |
+| **Development Environment** | Jupyter Notebook / Google Colab |
+| **Documentation & Reporting** | Microsoft PowerPoint, Microsoft Word, GitHub Markdown |
 
 ---
 
