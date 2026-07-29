@@ -21,6 +21,17 @@ An end-to-end customer segmentation project that applies the CRISP-DM methodolog
 ✔ Executive summary and stakeholder presentation with actionable business recommendations
 
 ---
+## 🔄 End-to-End Project Workflow
+
+<p align="center">
+    <img src="images/traveltide_workflow.png" width="1000">
+</p>
+
+<p align="center">
+<b>Figure 1.</b> End-to-end analytics workflow illustrating the CRISP-DM process from business understanding and data preparation through feature engineering, customer segmentation, model evaluation, and actionable business recommendations.
+</p>
+
+---
 
 # 📖 Project Overview
 
