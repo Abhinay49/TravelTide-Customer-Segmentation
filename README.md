@@ -87,7 +87,7 @@ The primary objectives of this project are to:
 ---
 
 ## 📑 Reports & Deliverables
-- [Executive Summary](reports/Executive%20Summary%20for%20TravelTide%20Customer%20Segmentation.docx)  
+- [Executive Summary](reports/Executive Summary for TravelTide Customer Segmentation.pdf)  
 - [Stakeholder Presentation](reports/TravelTide_Customer_Segmentation_ABHINAY_DORNIPATI_FINAL_Presentation.pptx)  
 - [Cluster Profiling Summary](output/cluster_summary_k7_updated.csv)  
 - [Full Feature Dataset with Cluster Labels](output/df_true_cluster_k7.csv)  
