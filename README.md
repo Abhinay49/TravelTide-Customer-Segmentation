@@ -96,12 +96,23 @@ The primary objectives of this project are to:
 
 ## 📑 Project Deliverables
 
-This repository includes the following project deliverables developed throughout the customer segmentation workflow:
+This repository includes the key business and analytical deliverables produced throughout the customer segmentation project.
 
-- 📄 **Executive Summary** – High-level overview of the project, methodology, key findings, and business recommendations.
-- 📊 **Stakeholder Presentation** – Executive presentation summarizing the customer segmentation strategy and proposed loyalty program.
-- 📈 **Cluster Profiling Summary** – Detailed profiling of each customer segment with assigned reward recommendations.
-- 🗂️ **Final Feature Dataset with Cluster Labels** – Processed analytical dataset containing engineered features and final customer segment assignments.
+- 📄 **Executive Summary**  
+  High-level summary of the project, methodology, key findings, and business recommendations.  
+  → [Executive Summary](reports/Executive_Summary.pdf)
+
+- 📊 **Stakeholder Presentation**  
+  Executive presentation summarizing the customer segmentation workflow, insights, and proposed loyalty strategy.  
+  → [Stakeholder Presentation](reports/Stakeholder_Presentation.pptx)
+
+- 📈 **Cluster Profiling Summary**  
+  Final profiling of all customer segments, including behavioral characteristics and assigned reward recommendations.  
+  → [cluster_summary_k7_iter4.csv](output/cluster_summary_k7_iter4.csv)
+
+- 🗂️ **Final Feature Dataset with Cluster Labels**  
+  Final analytical dataset containing engineered features and customer segment assignments used for analysis and visualization.  
+  → [df_true_cluster_k7_iter4.csv](output/df_true_cluster_k7_iter4.csv)
 
 ---
 
