@@ -1,18 +1,45 @@
-# TravelTide Customer Segmentation Project
+# 🌍 TravelTide Customer Segmentation
 
-## 📌 Overview
-This project was completed as part of the **TravelTide Mastery Project**, following the **CRISP-DM** methodology.  
-The objective was to segment customers of **TravelTide**, an online travel startup, to support the design of a **personalized rewards program**.  
+### Customer Analytics | Customer Segmentation | Machine Learning | CRISP-DM
 
-By analyzing customer behavior across sessions, flights, and hotels, the project identifies meaningful customer groups and aligns them with reward program perks proposed by **Elena Tarrant, Head of Marketing**.  
+An end-to-end customer segmentation project that applies the CRISP-DM methodology to analyze customer behavior, identify meaningful traveler segments, and develop data-driven reward strategies for a personalized loyalty program.
 
 ---
 
-## 🎯 Business Objective
-- Understand customer behavior and preferences.  
-- Identify distinct customer segments using data-driven methods.  
-- Map each segment to the most relevant **reward program perk**.  
-- Provide **actionable recommendations** to improve retention and engagement.  
+# ⭐ Project Highlights
+
+✔ End-to-end customer segmentation using the CRISP-DM framework
+
+✔ Advanced feature engineering from relational customer, flight, hotel, and session data
+
+✔ Customer segmentation using PCA and K-Means clustering
+
+✔ Cluster evaluation through silhouette analysis and business interpretability
+
+✔ Data-driven reward strategy aligned with customer behavior
+
+✔ Executive summary and stakeholder presentation with actionable business recommendations
+
+---
+
+# 📖 Project Overview
+
+TravelTide is an online travel platform seeking to improve customer retention through a personalized rewards program. Rather than offering identical incentives to all users, the objective is to understand differences in customer behavior and design targeted rewards that maximize engagement and long-term loyalty.
+
+This project develops an end-to-end customer segmentation workflow by integrating customer, session, flight, and hotel data to uncover meaningful behavioral patterns. Through comprehensive feature engineering, dimensionality reduction, and unsupervised machine learning, customers are grouped into distinct segments that support data-driven marketing decisions.
+
+The final segmentation identifies seven actionable customer groups, each mapped to a tailored reward strategy based on travel preferences, booking behavior, spending patterns, and engagement characteristics. The project concludes with executive-level recommendations designed to support marketing strategy and customer retention initiatives.
+
+---
+
+# 🎯 Business Objective
+
+The primary objectives of this project are to:
+
+- Understand customer travel behavior and booking preferences.
+- Identify meaningful customer segments using data-driven methods.
+- Design targeted reward strategies for each customer segment.
+- Deliver actionable business recommendations to improve customer retention, engagement, and loyalty.
 
 ---
 
