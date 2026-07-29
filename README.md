@@ -87,14 +87,25 @@ The primary objectives of this project are to:
 ---
 
 ## 📑 Reports & Deliverables
-- [Executive Summary](reports/Executive Summary for TravelTide Customer Segmentation.pdf)  
+- [Executive Summary](reports/Executive Summary for Traveltide Customer Segmentation.pdf)  
 - [Stakeholder Presentation](reports/TravelTide_Customer_Segmentation_ABHINAY_DORNIPATI_FINAL_Presentation.pptx)  
 - [Cluster Profiling Summary](output/cluster_summary_k7_updated.csv)  
-- [Full Feature Dataset with Cluster Labels](output/df_true_cluster_k7.csv)  
+- [Full Feature Dataset with Cluster Labels](output/df_true_cluster_k7.csv)
 
 ---
 
-## 🚀 Next Steps
+## 📑 Project Deliverables
+
+This repository includes the following project deliverables developed throughout the customer segmentation workflow:
+
+- 📄 **Executive Summary** – High-level overview of the project, methodology, key findings, and business recommendations.
+- 📊 **Stakeholder Presentation** – Executive presentation summarizing the customer segmentation strategy and proposed loyalty program.
+- 📈 **Cluster Profiling Summary** – Detailed profiling of each customer segment with assigned reward recommendations.
+- 🗂️ **Final Feature Dataset with Cluster Labels** – Processed analytical dataset containing engineered features and final customer segment assignments.
+
+---
+
+## 🚀 Future Improvements
 - Track **segment performance** after perks rollout.  
 - Re-cluster periodically as new data accumulates.  
 - Explore additional **personalization strategies** (dynamic perks, hybrid offers).  
@@ -135,7 +146,7 @@ TravelTide-Customer-Segmentation/
 
 The repository is organized to clearly separate raw and processed data, analytical notebooks, visual outputs, business deliverables, and supporting documentation. This structure promotes reproducibility while making the complete analytics workflow easy to navigate.
 
-```
+---
 
 # 🛠️ Tools & Technologies
 
@@ -158,6 +169,6 @@ The repository is organized to clearly separate raw and processed data, analytic
 
 **Data Analytics | Machine Learning | Python**
 
-Data Analytics and Machine Learning professional with an engineering background and over six years of experience in computational modeling, automation, and analytical problem-solving. Passionate about transforming data into actionable insights through machine learning, statistical analysis, and data visualization.
+Data Analytics and Machine Learning professional with an engineering background and over six years of experience in computational modeling, automation, and analytical problem-solving. Passionate about transforming data into actionable insights through data analytics, machine learning, statistical analysis, and data visualization.
 
 This repository is part of my professional portfolio, showcasing end-to-end data analytics and machine learning projects built using reproducible workflows and industry best practices.  
