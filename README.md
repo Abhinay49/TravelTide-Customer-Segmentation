@@ -98,12 +98,12 @@ This repository includes the key business and analytical deliverables produced t
   Executive presentation summarizing the customer segmentation workflow, insights, and proposed loyalty strategy.  
   → [Stakeholder Presentation](reports/Stakeholder_Presentation.pptx)
 
-- 📈 **Cluster Profiling Summary**  
-  Final profiling of all customer segments, including behavioral characteristics and assigned reward recommendations.  
+- 📈 **Final Cluster Profiling Summary (Iteration 4)**  
+  Behavioral profiles of the seven customer segments and their assigned reward recommendations from the final clustering model.  
   → [cluster_summary_k7_iter4.csv](output/cluster_summary_k7_iter4.csv)
 
-- 🗂️ **Final Feature Dataset with Cluster Labels**  
-  Final analytical dataset containing engineered features and customer segment assignments used for analysis and visualization.  
+- 🗂️ **Final Feature Dataset with Cluster Labels (Iteration 4)**  
+  Final analytical dataset containing engineered features and customer segment assignments used for downstream analysis and visualization.  
   → [df_true_cluster_k7_iter4.csv](output/df_true_cluster_k7_iter4.csv)
 
 ---
