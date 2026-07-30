@@ -86,14 +86,6 @@ The primary objectives of this project are to:
 
 ---
 
-## 📑 Reports & Deliverables
-- [Executive Summary](reports/Executive Summary for Traveltide Customer Segmentation.pdf)  
-- [Stakeholder Presentation](reports/TravelTide_Customer_Segmentation_ABHINAY_DORNIPATI_FINAL_Presentation.pptx)  
-- [Cluster Profiling Summary](output/cluster_summary_k7_updated.csv)  
-- [Full Feature Dataset with Cluster Labels](output/df_true_cluster_k7.csv)
-
----
-
 ## 📑 Project Deliverables
 
 This repository includes the key business and analytical deliverables produced throughout the customer segmentation project.
