@@ -61,7 +61,7 @@ The primary objectives of this project are to:
 4. **Feature Engineering** – Derive behavioral metrics (rebooking ratio, co-booking ratio, dollars saved per km, etc.), aggregated at the **user level**.  
 5. **Modeling (Customer Segmentation)** – Apply **KMeans clustering** with PCA. Iterated across multiple values of `k`. Evaluated with **silhouette scores** and interpretability.  
 6. **Evaluation** – Validate clusters against hypothesized perk behaviors. Ensure alignment with marketing strategy.  
-7. **Deployment (Communication)** – Deliver **executive summary** and **stakeholder slide deck** with visuals (heatmaps, radar charts).  
+7. **Deployment (Communication)** – Deliver **executive summary** and **stakeholder slide deck** with visuals (heatmaps, radar charts).
 
 ---
 
